@@ -1,3 +1,2 @@
-# SOT
 ## Sea of Thieves
-### Sea of Thieves Guide
+### This is my guide on Sea of Thieves
